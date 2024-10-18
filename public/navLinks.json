@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Services",
+      "url": "/services",
+      "dropdown": [
+        { "name": "Web Development", "url": "/services/web-development" },
+        { "name": "App Development", "url": "/services/app-development" },
+        { "name": "SEO", "url": "/services/seo" }
+      ]
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ]
+  
